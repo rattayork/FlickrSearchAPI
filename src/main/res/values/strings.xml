@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FlickrSearchAPI</string>
+    <string name="logged">logged</string>
+    <string name="my_yes">Yes</string>
+    <string name="my_no">No</string>
+    <string name="history">History</string>
+    <string name="all_history_cleared">All Histories cleared</string>
+    <string name="search_flickr">Search Flickr:</string>
+    <string name="search">Search</string>
+    <string name="input_invalid">Input invalid</string>
+    <string name="pls_comeback_later">There are something wrong. Please come back later.</string>
+    <string name="by_owner">By:</string>
+    <string name="name">name</string>
+    <string name="title">title</string>
+    <string name="retry">Retry</string>
+    <string name="warn_input_empty">Keyword should not be empty</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.FlickrSearchAPI" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/dark1</item>
+        <item name="colorPrimaryVariant">@color/dark3</item>
+        <item name="colorOnPrimary">@color/light2</item>
+        <item name="colorAccent">@color/light3</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/red1</item>
+        <item name="colorSecondaryVariant">@color/red2</item>
+        <item name="colorOnSecondary">@color/red3</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/dark2</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name = "dark1">#EFECE8</color>
+    <color name = "dark2">#111224</color>
+    <color name = "dark3">#7C7A78</color>
+    <color name = "dark4">#B1ADA8</color>
+
+    <color name = "light1">#FBFBFB</color>
+    <color name = "light2">#EFF9FA</color>
+    <color name = "light3">#DBEAE5</color>
+    <color name = "light4">#FFFAEC</color>
+
+    <color name = "orange1">#FBCB9A</color>
+    <color name = "orange2">#E65100</color>
+    <color name = "orange3">#F67C01</color>
+    <color name = "orange4">#FF9700</color>
+
+    <color name = "red1">#E7A2BE</color>
+    <color name = "red2">#890E4F</color>
+    <color name = "red3">#C2175B</color>
+    <color name = "red4">#EA1E63</color>
+
+    <color name = "blue1">#A2C8ED</color>
+    <color name = "blue2">#0E47A1</color>
+    <color name = "blue3">#1976D3</color>
+    <color name = "blue4">#2196F3</color>
+
+    <color name = "green1">#98C9C5</color>
+    <color name = "green2">#004C3F</color>
+    <color name = "green3">#00796A</color>
+    <color name = "green4">#009788</color>
+
+
+</resources>
